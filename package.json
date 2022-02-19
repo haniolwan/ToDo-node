@@ -1,0 +1,19 @@
+{
+  "name": "todo-node",
+  "version": "1.0.0",
+  "description": "User Stories:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heenoow/ToDo-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heenoow/ToDo-node/issues"
+  },
+  "homepage": "https://github.com/heenoow/ToDo-node#readme"
+}
